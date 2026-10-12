@@ -611,13 +611,15 @@ kind: 'case-study',
         subtitle: 'Screens from the project',
   
         description:
-          'Feature your original finished ' +
-          'website screenshots. A live deployment ' +
-          'or public repository is not required.',
+          'This section showcases the final interfaces of the FOREVER website, including  ' +
+          'the customer-facing pages and administrative dashboard. The designs highlight  ' +
+          'product browsing, user login, shopping features, and product management. My  ' +
+          'contributions focused on creating user-friendly interfaces, maintaining consistent  ' +
+          'layouts, and supporting website development.',
   
         // Add final website screenshots
         images: [
-          'images/forever/Admin.svg',
+          'images/forever/admin.svg',
           'images/forever/web.svg'
         ]
       },
